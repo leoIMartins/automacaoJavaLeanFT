@@ -1,0 +1,15 @@
+mvn install:install-file –Dfile=“C:\Program Files (x86)\Micro Focus\LeanFT\SDK\Java\com.hp.lft.common.jar” -DgroupId=“com.hp.lft” –DartifactId=“common” –Dversion=“14.53.0” –Dpackaging=“jar” -DgeneratePom=true
+
+mvn install:install-file –Dfile=“C:\Program Files (x86)\Micro Focus\LeanFT\SDK\Java\com.hp.lft.cucumberv4.jar” -DgroupId=“com.hp.lft” –DartifactId=“cucumberv4” –Dversion=“14.53.0” –Dpackaging=“jar” -DgeneratePom=true
+
+mvn install:install-file –Dfile=“C:\Program Files (x86)\Micro Focus\LeanFT\SDK\Java\com.hp.lft.report.jar” -DgroupId=“com.hp.lft” –DartifactId=“report” –Dversion=“14.53.0” –Dpackaging=“jar” -DgeneratePom=true
+
+mvn install:install-file –Dfile=“C:\Program Files (x86)\Micro Focus\LeanFT\SDK\Java\com.hp.lft.reportbuilder-standalone.jar” -DgroupId=“com.hp.lft” –DartifactId=“reportbuilder-standalone” –Dversion=“14.53.0” –Dpackaging=“jar” -DgeneratePom=true
+
+mvn install:install-file –Dfile=“C:\Program Files (x86)\Micro Focus\LeanFT\SDK\Java\com.hp.lft.sdk-standalone.jar” -DgroupId=“com.hp.lft” –DartifactId=“sdk” –Dversion=“14.53.0” –Dpackaging=“jar” -DgeneratePom=true
+
+mvn install:install-file –Dfile=“C:\Program Files (x86)\Micro Focus\LeanFT\SDK\Java\com.hp.lft.unittesting.jar” -DgroupId=“com.hp.lft” –DartifactId=“unittesting” –Dversion=“14.53.0” –Dpackaging=“jar” -DgeneratePom=true
+
+mvn install:install-file –Dfile=“C:\Program Files (x86)\Micro Focus\LeanFT\SDK\Java\com.hp.lft.verifications.jar” -DgroupId=“com.hp.lft” –DartifactId=“verifications” –Dversion=“14.53.0” –Dpackaging=“jar” -DgeneratePom=true
+
+mvn install:install-file –Dfile=“C:\workspace\ojdbc8.jar” -DgroupId=“com.oracle” –DartifactId=“ojdbc8” –Dversion=“12.2.0.1” –Dpackaging=“jar” -DgeneratePom=true

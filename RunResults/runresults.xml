@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2020-02-17 11:52:14</RunStartTime>
+        <RunStartTime>2020-03-20 16:21:57</RunStartTime>
         <Timezone>E. South America Standard Time</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -11,10 +11,10 @@
         <Data>
             <Name>Run Results</Name>
             <Description><![CDATA[ ]]></Description>
-            <StartTime>2020-02-17 11:52:14</StartTime>
-            <Result>Passed</Result>
+            <StartTime>2020-03-20 16:21:57</StartTime>
+            <Result>Failed</Result>
             <Links/>
-            <Duration><![CDATA[00:00:13.687]]></Duration>
+            <Duration><![CDATA[00:00:43.800]]></Duration>
             <Extension>
                 <Any>
                     <IconKey>Run</IconKey>
@@ -29,7 +29,7 @@
                 <TotalMemory>12185</TotalMemory>
                 <Locale><![CDATA[pt-BR]]></Locale>
                 <Timezone><![CDATA[E. South America Standard Time]]></Timezone>
-                <User>lmartins8</User>
+                <User>lmartins9</User>
             </Environment>
             <TestedApplication/>
             <ToolName>LeanFT</ToolName>
@@ -39,10 +39,10 @@
             <Data>
                 <Name>runners</Name>
                 <Description><![CDATA[Version: N/A]]></Description>
-                <StartTime>2020-02-17 11:52:14</StartTime>
-                <Result>Passed</Result>
+                <StartTime>2020-03-20 16:21:58</StartTime>
+                <Result>Failed</Result>
                 <Links/>
-                <Duration><![CDATA[00:00:12.957]]></Duration>
+                <Duration><![CDATA[00:00:43.139]]></Duration>
                 <Extension>
                     <Any>
                         <IconKey>Package</IconKey>
@@ -54,10 +54,10 @@
                 <Data>
                     <Name><![CDATA[runners.LeanFtTest]]></Name>
                     <Description/>
-                    <StartTime>2020-02-17 11:52:14</StartTime>
-                    <Result>Passed</Result>
+                    <StartTime>2020-03-20 16:21:58</StartTime>
+                    <Result>Failed</Result>
                     <Links/>
-                    <Duration><![CDATA[00:00:12.957]]></Duration>
+                    <Duration><![CDATA[00:00:43.139]]></Duration>
                     <Extension>
                         <Any>
                             <IconKey>Class</IconKey>
@@ -71,10 +71,10 @@
                         <Description><![CDATA[  Como um consumidor
   Eu quero comprar um produto
   Para que eu possa trabalhar]]></Description>
-                        <StartTime>2020-02-17 11:52:14</StartTime>
-                        <Result>Passed</Result>
+                        <StartTime>2020-03-20 16:21:58</StartTime>
+                        <Result>Failed</Result>
                         <Links/>
-                        <Duration><![CDATA[00:00:12.941]]></Duration>
+                        <Duration><![CDATA[00:00:43.120]]></Duration>
                         <Extension>
                             <Any>
                                 <IconKey>Feature</IconKey>
@@ -86,10 +86,10 @@
                         <Data>
                             <Name><![CDATA[<b>Cenario: </b>Compar Mac]]></Name>
                             <Description><![CDATA[Quando  que o usuário seleciona o produto no menu <br>E  adiciona o produto ao carrinho <br>E  seleciona o carrinho <br>E  seleciona o botão Checkout <br><br><br>]]></Description>
-                            <StartTime>2020-02-17 11:52:14</StartTime>
-                            <Result>Passed</Result>
+                            <StartTime>2020-03-20 16:21:58</StartTime>
+                            <Result>Failed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:12.936]]></Duration>
+                            <Duration><![CDATA[00:00:43.102]]></Duration>
                             <Extension>
                                 <Any>
                                     <IconKey>Scenario</IconKey>
@@ -101,10 +101,10 @@
                             <Data>
                                 <Name><![CDATA[<b>Contexto: </b>]]></Name>
                                 <Description/>
-                                <StartTime>2020-02-17 11:52:14</StartTime>
-                                <Result>Passed</Result>
+                                <StartTime>2020-03-20 16:21:58</StartTime>
+                                <Result>Failed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:04.448]]></Duration>
+                                <Duration><![CDATA[00:00:43.088]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IconKey>Background</IconKey>
@@ -116,10 +116,10 @@
                                 <Data>
                                     <Name><![CDATA[<b>Dado </b>que o usuário acessa o sistema]]></Name>
                                     <Description/>
-                                    <StartTime>2020-02-17 11:52:14</StartTime>
+                                    <StartTime>2020-03-20 16:21:58</StartTime>
                                     <Result>Passed</Result>
                                     <Links/>
-                                    <Duration><![CDATA[00:00:01.428]]></Duration>
+                                    <Duration><![CDATA[00:00:02.691]]></Duration>
                                     <Extension>
                                         <Any>
                                             <IsHtmlErrorText>true</IsHtmlErrorText>
@@ -130,7 +130,7 @@
                                     <Data>
                                         <Name><![CDATA[Browser.launch]]></Name>
                                         <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>80.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>BRBRJ4459WQ7</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>BRBRJ4459WQ7</td></tr></table>]]></Description>
-                                        <StartTime>2020-02-17 11:52:14</StartTime>
+                                        <StartTime>2020-03-20 16:21:58</StartTime>
                                         <Result>Passed</Result>
                                         <Links/>
                                         <Duration><![CDATA[00:00:00.000]]></Duration>
@@ -158,10 +158,10 @@
                                     <Data>
                                         <Name><![CDATA[about:blank.navigate]]></Name>
                                         <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://tutorialsninja.com/demo/index.php?route=common/home</td></tr></table>]]></Description>
-                                        <StartTime>2020-02-17 11:52:16</StartTime>
+                                        <StartTime>2020-03-20 16:22:01</StartTime>
                                         <Result>Passed</Result>
                                         <Links/>
-                                        <Duration><![CDATA[00:00:00.050]]></Duration>
+                                        <Duration><![CDATA[00:00:00.069]]></Duration>
                                         <Extension>
                                             <Any>
                                                 <TestObject>
@@ -230,487 +230,174 @@
                                 <Data>
                                     <Name><![CDATA[<b>Então </b>é exibida a tela inicial]]></Name>
                                     <Description/>
-                                    <StartTime>2020-02-17 11:52:16</StartTime>
-                                    <Result>Passed</Result>
+                                    <StartTime>2020-03-20 16:22:01</StartTime>
+                                    <Result>Failed</Result>
+                                    <ErrorText><![CDATA[<pre>com.hp.lft.sdk.GeneralReplayException: Browser not valid anymore
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory$11.create(ReplayExceptionFactory.java:95)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:289)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:22)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehaviorBase$ReplayErrorHandler.onError(TestObjectExecuterBehaviorBase.java:65)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.handleError(CommunicationClientImpl.java:222)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.send(CommunicationClientImpl.java:96)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehavior.executeMethod(TestObjectExecuter.java:33)
+	at com.hp.lft.sdk.internal.TestObjectBase.executeMethod(TestObjectBase.java:124)
+	at com.hp.lft.sdk.internal.TestObjectBase$3.invoke(TestObjectBase.java:116)
+	at com.hp.lft.sdk.internal.TestObjectOperationWrapper.executeWithEvents(TestObjectOperationWrapper.java:81)
+	at com.hp.lft.sdk.internal.TestObjectBase.highlight(TestObjectBase.java:119)
+	at pageobject.Home.verificaPaginaInicial(Home.java:18)
+	at steps.LeanFtStepDefinitions.é_exibida_a_tela_inicial(LeanFtStepDefinitions.java:35)
+	at ✽.é exibida a tela inicial(file:src/test/resources/features/Compras.feature:10)
+</pre>]]></ErrorText>
                                     <Links/>
-                                    <Duration><![CDATA[00:00:03.020]]></Duration>
+                                    <Duration><![CDATA[00:00:40.396]]></Duration>
                                     <Extension>
                                         <Any>
                                             <IsHtmlErrorText>true</IsHtmlErrorText>
                                         </Any>
                                     </Extension>
                                 </Data>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Link.highlight]]></Name>
+                                        <Description/>
+                                        <StartTime>2020-03-20 16:22:21</StartTime>
+                                        <Result>Failed</Result>
+                                        <ErrorText><![CDATA[<b>Operation 'Link.highlight' failed:</b><BR/><pre>com.hp.lft.sdk.GeneralReplayException: Browser not valid anymore
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory$11.create(ReplayExceptionFactory.java:95)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:289)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:22)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehaviorBase$ReplayErrorHandler.onError(TestObjectExecuterBehaviorBase.java:65)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.handleError(CommunicationClientImpl.java:222)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.send(CommunicationClientImpl.java:96)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehavior.executeMethod(TestObjectExecuter.java:33)
+	at com.hp.lft.sdk.internal.TestObjectBase.executeMethod(TestObjectBase.java:124)
+	at com.hp.lft.sdk.internal.TestObjectBase$3.invoke(TestObjectBase.java:116)
+	at com.hp.lft.sdk.internal.TestObjectOperationWrapper.executeWithEvents(TestObjectOperationWrapper.java:81)
+	at com.hp.lft.sdk.internal.TestObjectBase.highlight(TestObjectBase.java:119)
+	at pageobject.Home.verificaPaginaInicial(Home.java:18)
+	at steps.LeanFtStepDefinitions.é_exibida_a_tela_inicial(LeanFtStepDefinitions.java:35)
+	at ✽.é exibida a tela inicial(file:src/test/resources/features/Compras.feature:10)
+</pre>]]></ErrorText>
+                                        <Links/>
+                                        <Duration><![CDATA[00:00:20.087]]></Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Browser]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Browser]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Link</Type>
+                                                            <Name><![CDATA[Link]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>highlight</Operation>
+                                                    <OperationData/>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[XPath]]></Name>
+                                                            <Value><![CDATA[//*/a[text()='The Ninja Store']]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Link</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Browser]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Browser]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Link</Type>
+                                                                <Name><![CDATA[Link]]></Name>
+                                                                <IconKey>Link</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
                             </ReportNode>
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
                                 <Name><![CDATA[<b>Quando </b>que o usuário seleciona o produto no menu]]></Name>
                                 <Description/>
-                                <StartTime>2020-02-17 11:52:19</StartTime>
-                                <Result>Passed</Result>
+                                <StartTime>2020-03-20 16:22:41</StartTime>
+                                <Result>Warning</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:02.101]]></Duration>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
-                            <ReportNode type="Step">
-                                <Data>
-                                    <Name><![CDATA[Desktops.click]]></Name>
-                                    <Description/>
-                                    <StartTime>2020-02-17 11:52:20</StartTime>
-                                    <Result>Passed</Result>
-                                    <Links/>
-                                    <Duration><![CDATA[00:00:00.036]]></Duration>
-                                    <Extension>
-                                        <Any>
-                                            <TestObject>
-                                                <Path>
-                                                    <Object>
-                                                        <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[The Ninja Store]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Page</Type>
-                                                        <Name><![CDATA[The Ninja Store]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Link</Type>
-                                                        <Name><![CDATA[Desktops]]></Name>
-                                                    </Object>
-                                                </Path>
-                                                <Operation>click</Operation>
-                                                <OperationData/>
-                                                <Properties>
-                                                    <Property>
-                                                        <Name><![CDATA[XPath]]></Name>
-                                                        <Value><![CDATA[//*/a[text()='Desktops']]]></Value>
-                                                    </Property>
-                                                </Properties>
-                                            </TestObject>
-                                            <IsHtmlErrorText>true</IsHtmlErrorText>
-                                            <IconKey>Link</IconKey>
-                                            <CustomUIElements>
-                                                <DescriptionLabel>Data</DescriptionLabel>
-                                            </CustomUIElements>
-                                            <Descriptive>
-                                                <TestObject>
-                                                    <Path>
-                                                        <Object>
-                                                            <Type>Web.Browser</Type>
-                                                            <Name><![CDATA[The Ninja Store]]></Name>
-                                                            <IconKey>Browser</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Page</Type>
-                                                            <Name><![CDATA[The Ninja Store]]></Name>
-                                                            <IconKey>Page</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Link</Type>
-                                                            <Name><![CDATA[Desktops]]></Name>
-                                                            <IconKey>Link</IconKey>
-                                                        </Object>
-                                                    </Path>
-                                                </TestObject>
-                                            </Descriptive>
-                                            <HideContextInfo>true</HideContextInfo>
-                                        </Any>
-                                    </Extension>
-                                </Data>
-                            </ReportNode>
-                            <ReportNode type="Step">
-                                <Data>
-                                    <Name><![CDATA[Mac (1).click]]></Name>
-                                    <Description/>
-                                    <StartTime>2020-02-17 11:52:21</StartTime>
-                                    <Result>Passed</Result>
-                                    <Links/>
-                                    <Duration><![CDATA[00:00:00.058]]></Duration>
-                                    <Extension>
-                                        <Any>
-                                            <TestObject>
-                                                <Path>
-                                                    <Object>
-                                                        <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[The Ninja Store]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Page</Type>
-                                                        <Name><![CDATA[The Ninja Store]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Link</Type>
-                                                        <Name><![CDATA[Mac (1)]]></Name>
-                                                    </Object>
-                                                </Path>
-                                                <Operation>click</Operation>
-                                                <OperationData/>
-                                                <Properties>
-                                                    <Property>
-                                                        <Name><![CDATA[XPath]]></Name>
-                                                        <Value><![CDATA[//*/a[text()='Mac (1)']]]></Value>
-                                                    </Property>
-                                                </Properties>
-                                            </TestObject>
-                                            <IsHtmlErrorText>true</IsHtmlErrorText>
-                                            <IconKey>Link</IconKey>
-                                            <CustomUIElements>
-                                                <DescriptionLabel>Data</DescriptionLabel>
-                                            </CustomUIElements>
-                                            <Descriptive>
-                                                <TestObject>
-                                                    <Path>
-                                                        <Object>
-                                                            <Type>Web.Browser</Type>
-                                                            <Name><![CDATA[The Ninja Store]]></Name>
-                                                            <IconKey>Browser</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Page</Type>
-                                                            <Name><![CDATA[The Ninja Store]]></Name>
-                                                            <IconKey>Page</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Link</Type>
-                                                            <Name><![CDATA[Mac (1)]]></Name>
-                                                            <IconKey>Link</IconKey>
-                                                        </Object>
-                                                    </Path>
-                                                </TestObject>
-                                            </Descriptive>
-                                            <HideContextInfo>true</HideContextInfo>
-                                        </Any>
-                                    </Extension>
-                                </Data>
-                            </ReportNode>
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
                                 <Name><![CDATA[<b>E </b>adiciona o produto ao carrinho]]></Name>
                                 <Description/>
-                                <StartTime>2020-02-17 11:52:21</StartTime>
-                                <Result>Passed</Result>
+                                <StartTime>2020-03-20 16:22:41</StartTime>
+                                <Result>Warning</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:02.117]]></Duration>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
-                            <ReportNode type="Step">
-                                <Data>
-                                    <Name><![CDATA[Add to Cart.click]]></Name>
-                                    <Description/>
-                                    <StartTime>2020-02-17 11:52:23</StartTime>
-                                    <Result>Passed</Result>
-                                    <Links/>
-                                    <Duration><![CDATA[00:00:00.051]]></Duration>
-                                    <Extension>
-                                        <Any>
-                                            <TestObject>
-                                                <Path>
-                                                    <Object>
-                                                        <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[Mac]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Page</Type>
-                                                        <Name><![CDATA[Mac]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Button</Type>
-                                                        <Name><![CDATA[Add to Cart]]></Name>
-                                                    </Object>
-                                                </Path>
-                                                <Operation>click</Operation>
-                                                <OperationData/>
-                                                <Properties>
-                                                    <Property>
-                                                        <Name><![CDATA[buttonType]]></Name>
-                                                        <Value><![CDATA[button]]></Value>
-                                                    </Property>
-                                                    <Property>
-                                                        <Name><![CDATA[name]]></Name>
-                                                        <Value><![CDATA[ Add to Cart]]></Value>
-                                                    </Property>
-                                                    <Property>
-                                                        <Name><![CDATA[tagName]]></Name>
-                                                        <Value><![CDATA[BUTTON]]></Value>
-                                                    </Property>
-                                                </Properties>
-                                            </TestObject>
-                                            <IsHtmlErrorText>true</IsHtmlErrorText>
-                                            <IconKey>Button</IconKey>
-                                            <CustomUIElements>
-                                                <DescriptionLabel>Data</DescriptionLabel>
-                                            </CustomUIElements>
-                                            <Descriptive>
-                                                <TestObject>
-                                                    <Path>
-                                                        <Object>
-                                                            <Type>Web.Browser</Type>
-                                                            <Name><![CDATA[Mac]]></Name>
-                                                            <IconKey>Browser</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Page</Type>
-                                                            <Name><![CDATA[Mac]]></Name>
-                                                            <IconKey>Page</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Button</Type>
-                                                            <Name><![CDATA[Add to Cart]]></Name>
-                                                            <IconKey>Button</IconKey>
-                                                        </Object>
-                                                    </Path>
-                                                </TestObject>
-                                            </Descriptive>
-                                            <HideContextInfo>true</HideContextInfo>
-                                        </Any>
-                                    </Extension>
-                                </Data>
-                            </ReportNode>
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
                                 <Name><![CDATA[<b>E </b>seleciona o carrinho]]></Name>
                                 <Description/>
-                                <StartTime>2020-02-17 11:52:23</StartTime>
-                                <Result>Passed</Result>
+                                <StartTime>2020-03-20 16:22:41</StartTime>
+                                <Result>Warning</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:01.122]]></Duration>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
-                            <ReportNode type="Step">
-                                <Data>
-                                    <Name><![CDATA[3 item(s) - $366.00.click]]></Name>
-                                    <Description/>
-                                    <StartTime>2020-02-17 11:52:24</StartTime>
-                                    <Result>Passed</Result>
-                                    <Links/>
-                                    <Duration><![CDATA[00:00:00.057]]></Duration>
-                                    <Extension>
-                                        <Any>
-                                            <TestObject>
-                                                <Path>
-                                                    <Object>
-                                                        <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[Mac]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Page</Type>
-                                                        <Name><![CDATA[Mac]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Button</Type>
-                                                        <Name><![CDATA[3 item(s) - $366.00]]></Name>
-                                                    </Object>
-                                                </Path>
-                                                <Operation>click</Operation>
-                                                <OperationData/>
-                                                <Properties>
-                                                    <Property>
-                                                        <Name><![CDATA[XPath]]></Name>
-                                                        <Value><![CDATA[//*/div[@id='cart']/button]]></Value>
-                                                    </Property>
-                                                </Properties>
-                                            </TestObject>
-                                            <IsHtmlErrorText>true</IsHtmlErrorText>
-                                            <IconKey>Button</IconKey>
-                                            <CustomUIElements>
-                                                <DescriptionLabel>Data</DescriptionLabel>
-                                            </CustomUIElements>
-                                            <Descriptive>
-                                                <TestObject>
-                                                    <Path>
-                                                        <Object>
-                                                            <Type>Web.Browser</Type>
-                                                            <Name><![CDATA[Mac]]></Name>
-                                                            <IconKey>Browser</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Page</Type>
-                                                            <Name><![CDATA[Mac]]></Name>
-                                                            <IconKey>Page</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Button</Type>
-                                                            <Name><![CDATA[3 item(s) - $366.00]]></Name>
-                                                            <IconKey>Button</IconKey>
-                                                        </Object>
-                                                    </Path>
-                                                </TestObject>
-                                            </Descriptive>
-                                            <HideContextInfo>true</HideContextInfo>
-                                        </Any>
-                                    </Extension>
-                                </Data>
-                            </ReportNode>
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
                                 <Name><![CDATA[<b>E </b>seleciona o botão Checkout]]></Name>
                                 <Description/>
-                                <StartTime>2020-02-17 11:52:24</StartTime>
-                                <Result>Passed</Result>
+                                <StartTime>2020-03-20 16:22:41</StartTime>
+                                <Result>Warning</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:03.147]]></Duration>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
-                            <ReportNode type="Step">
-                                <Data>
-                                    <Name><![CDATA[Checkout.click]]></Name>
-                                    <Description/>
-                                    <StartTime>2020-02-17 11:52:25</StartTime>
-                                    <Result>Passed</Result>
-                                    <Links/>
-                                    <Duration><![CDATA[00:00:00.047]]></Duration>
-                                    <Extension>
-                                        <Any>
-                                            <TestObject>
-                                                <Path>
-                                                    <Object>
-                                                        <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[Mac]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Page</Type>
-                                                        <Name><![CDATA[Mac]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.WebElement</Type>
-                                                        <Name><![CDATA[Checkout]]></Name>
-                                                    </Object>
-                                                </Path>
-                                                <Operation>click</Operation>
-                                                <OperationData/>
-                                                <Properties>
-                                                    <Property>
-                                                        <Name><![CDATA[tagName]]></Name>
-                                                        <Value><![CDATA[STRONG]]></Value>
-                                                    </Property>
-                                                    <Property>
-                                                        <Name><![CDATA[innerText]]></Name>
-                                                        <Value><![CDATA[Checkout]]></Value>
-                                                    </Property>
-                                                </Properties>
-                                            </TestObject>
-                                            <IsHtmlErrorText>true</IsHtmlErrorText>
-                                            <IconKey>WebElement</IconKey>
-                                            <CustomUIElements>
-                                                <DescriptionLabel>Data</DescriptionLabel>
-                                            </CustomUIElements>
-                                            <Descriptive>
-                                                <TestObject>
-                                                    <Path>
-                                                        <Object>
-                                                            <Type>Web.Browser</Type>
-                                                            <Name><![CDATA[Mac]]></Name>
-                                                            <IconKey>Browser</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Page</Type>
-                                                            <Name><![CDATA[Mac]]></Name>
-                                                            <IconKey>Page</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.WebElement</Type>
-                                                            <Name><![CDATA[Checkout]]></Name>
-                                                            <IconKey>WebElement</IconKey>
-                                                        </Object>
-                                                    </Path>
-                                                </TestObject>
-                                            </Descriptive>
-                                            <HideContextInfo>true</HideContextInfo>
-                                        </Any>
-                                    </Extension>
-                                </Data>
-                            </ReportNode>
-                            <ReportNode type="Step">
-                                <Data>
-                                    <Name><![CDATA[Checkout.click]]></Name>
-                                    <Description/>
-                                    <StartTime>2020-02-17 11:52:27</StartTime>
-                                    <Result>Passed</Result>
-                                    <Links/>
-                                    <Duration><![CDATA[00:00:00.053]]></Duration>
-                                    <Extension>
-                                        <Any>
-                                            <TestObject>
-                                                <Path>
-                                                    <Object>
-                                                        <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[Shopping Cart]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Page</Type>
-                                                        <Name><![CDATA[Shopping Cart]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Button</Type>
-                                                        <Name><![CDATA[Checkout]]></Name>
-                                                    </Object>
-                                                </Path>
-                                                <Operation>click</Operation>
-                                                <OperationData/>
-                                                <Properties>
-                                                    <Property>
-                                                        <Name><![CDATA[buttonType]]></Name>
-                                                        <Value><![CDATA[""]]></Value>
-                                                    </Property>
-                                                    <Property>
-                                                        <Name><![CDATA[name]]></Name>
-                                                        <Value><![CDATA[Checkout]]></Value>
-                                                    </Property>
-                                                    <Property>
-                                                        <Name><![CDATA[tagName]]></Name>
-                                                        <Value><![CDATA[A]]></Value>
-                                                    </Property>
-                                                </Properties>
-                                            </TestObject>
-                                            <IsHtmlErrorText>true</IsHtmlErrorText>
-                                            <IconKey>Button</IconKey>
-                                            <CustomUIElements>
-                                                <DescriptionLabel>Data</DescriptionLabel>
-                                            </CustomUIElements>
-                                            <Descriptive>
-                                                <TestObject>
-                                                    <Path>
-                                                        <Object>
-                                                            <Type>Web.Browser</Type>
-                                                            <Name><![CDATA[Shopping Cart]]></Name>
-                                                            <IconKey>Browser</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Page</Type>
-                                                            <Name><![CDATA[Shopping Cart]]></Name>
-                                                            <IconKey>Page</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Button</Type>
-                                                            <Name><![CDATA[Checkout]]></Name>
-                                                            <IconKey>Button</IconKey>
-                                                        </Object>
-                                                    </Path>
-                                                </TestObject>
-                                            </Descriptive>
-                                            <HideContextInfo>true</HideContextInfo>
-                                        </Any>
-                                    </Extension>
-                                </Data>
-                            </ReportNode>
                         </ReportNode>
                     </ReportNode>
                 </ReportNode>
